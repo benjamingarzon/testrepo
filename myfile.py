@@ -1,4 +1,4 @@
 def myfunction():
-    # do something
     # this is one change
+    # this is another change
     pass
